@@ -14,6 +14,7 @@ function findUniqueToy(toy) {
   for (const char of toy) {
     const lowerChar = char.toLowerCase();
     if (charCounts[lowerChar] === 1) {
+      console.log(char)
       return char;  // Return the character with its original case
     }
   }
