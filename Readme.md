@@ -18,7 +18,7 @@ This project showcases solutions to various AdventJS problems, demonstrating pro
 
 ## Structure
 
-Solutions are organized by challenge day/number for easy navigation and reference.
+Solutions are organized by year, each solution has its own folder for easy navigation and reference.
 
 ## Usage
 
@@ -26,20 +26,12 @@ Each solution includes the problem explanation and corresponding JavaScript impl
 
 ---
 
-Feel free to explore, learn, and contribute improvements!
+Feel free to explore, learn.
 
 ## Project Structure
 
 ```
 adventjs-solutions/
-├── 2024/
-│   ├── challenge-01/
-│   │   ├── solution.js
-│   │   └── README.md
-│   ├── challenge-02/
-│   │   ├── solution.js
-│   │   └── README.md
-│   └── ...
 ├── 2025/
 │   ├── challenge-01/
 │   │   ├── solution.js
